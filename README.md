@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">Data Engineer| Transforming Large dataset into meaningful dashboards</h3>
+<h3 align="center">Tableau Developer| Transforming Large dataset into meaningful dashboards</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinkumar-sureshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kavinkumar-sureshkumar" /> </p>
 
