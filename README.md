@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **SQL, Machine Learning, Tableau, Power BI**
 
-- 📫 How to reach me **kavinkumar1603@gmail.com**
+- 📫 How to reach me **kavinkumarsuresh1997@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/kavinkumar-sureshkumar](www.linkedin.com/in/kavinkumar-sureshkumar)
 
